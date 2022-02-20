@@ -1,6 +1,5 @@
 # LCD05-Python
-### This repository contains code to interact with the I2C LCD05 display on a Raspbery Pi for example
-#### This code was written in python, and can be used for any purposes
+### Simple API for interacting with I2C based LCD05 display (python)
 
 #### Functions:
 
